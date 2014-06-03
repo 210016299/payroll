@@ -1,0 +1,3 @@
+com\joseph\payrollmock\domain\Customer.class
+com\joseph\payrollmock\app\conf\ConnectionConfig.class
+com\joseph\payrollmock\domain\Contact.class
